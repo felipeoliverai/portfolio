@@ -6,7 +6,7 @@
 ### Felipe Oliveira 
 <hr>
 
-Olá me chamo Felipe tenho 19 anos e sou Machine learning engineer. 
+Olá me chamo Felipe tenho 19 anos, sou Machine learning engineer, tenho trabalhos desenvolvidos com foco em . 
 <br>
 
 #### Projetos de Machine learning
@@ -15,5 +15,6 @@ Olá me chamo Felipe tenho 19 anos e sou Machine learning engineer.
 E-commerce Analysis: https://bityli.com/70WO2
 Cars Prediction: https://bityli.com/lxQDC
 Heart diseases: https://bityli.com/QK4ta
+
 
 
