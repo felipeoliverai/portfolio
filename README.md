@@ -17,6 +17,8 @@ Heart diseases: https://bityli.com/QK4ta
 Cars Prediction: https://bityli.com/lxQDC
 <br>
 E-commerce Analysis: https://bityli.com/70WO2
+<br>
+SHAP studies: https://bityli.com/3MW7H
 
 
 
