@@ -10,15 +10,15 @@ Olá me chamo Felipe, tenho 19 anos, sou Machine learning engineer, tenho paixã
 <br>
 <br>
 
-#### Projetos de Machine learning
+#### Projetos de Machine learning:
 
-Heart diseases: https://bityli.com/QK4ta
+* Heart diseases: https://bityli.com/QK4ta
 <br>
-Cars Prediction: https://bityli.com/lxQDC
+* Cars Prediction: https://bityli.com/lxQDC
 <br>
-E-commerce Analysis: https://bityli.com/70WO2
+* E-commerce Analysis: https://bityli.com/70WO2
 <br>
-SHAP studies: https://bityli.com/3MW7H
+* SHAP studies: https://bityli.com/3MW7H
 
 <hr>
 
