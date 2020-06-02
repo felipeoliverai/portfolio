@@ -6,7 +6,7 @@
 ### Felipe Oliveira 
 <hr>
 
-Olá me chamo Felipe tenho 19 anos, sou Machine learning engineer, tenho trabalhos desenvolvidos com foco em . 
+Olá me chamo Felipe tenho 19 anos, sou Machine learning engineer, tenho trabalhos desenvolvidos com foco em pesquisas e desenvolvimento de soluções robustas. 
 <br>
 
 #### Projetos de Machine learning
