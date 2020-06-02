@@ -20,5 +20,10 @@ E-commerce Analysis: https://bityli.com/70WO2
 <br>
 SHAP studies: https://bityli.com/3MW7H
 
+<hr>
 
+### Links:
 
+* Linkedin: https://www.linkedin.com/in/felipe-oliveira-18a573189/
+* Artigos: https://medium.com/@felipe.oliveiras2000
+<hr>
