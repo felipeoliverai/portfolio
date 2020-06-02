@@ -12,6 +12,6 @@ Olá me chamo Felipe tenho 19 anos e sou Machine learning engineer.
 #### Projetos de Machine learning
 
 
-Cars Prediction: encurtador.com.br/crBFY
+Cars Prediction: https://bityli.com/lxQDC
 
 
