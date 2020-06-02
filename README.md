@@ -7,7 +7,7 @@
 <hr>
 
 Olá me chamo Felipe tenho 19 anos e sou Machine learning engineer. 
-<hr>
+<br>
 
 #### Projetos de Machine learning
 
