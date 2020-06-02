@@ -13,11 +13,8 @@ Olá me chamo Felipe, tenho 19 anos, sou estudante de Inteligência Artificial, 
 #### Projetos de Machine learning:
 
 * Heart diseases: https://bityli.com/QK4ta
-<br>
 * Cars Prediction: https://bityli.com/lxQDC
-<br>
 * E-commerce Analysis: https://bityli.com/70WO2
-<br>
 * SHAP studies: https://bityli.com/3MW7H
 
 <hr>
