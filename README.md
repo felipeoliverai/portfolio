@@ -8,10 +8,10 @@
 
 Olá me chamo Felipe, tenho 19 anos, sou Machine learning engineer, tenho paixão pela Inteligência Artificial principalmente pela matemática e estatística envolvida, tenho projetos desenvolvidos com foco em pesquisas e desenvolvimento de soluções utilizando Machine learning e Deep learning. 
 <br>
+<br>
 
 #### Projetos de Machine learning
 
-<br>
 Heart diseases: https://bityli.com/QK4ta
 <br>
 Cars Prediction: https://bityli.com/lxQDC
