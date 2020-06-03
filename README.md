@@ -16,6 +16,9 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, tenho paixão p
 * E-commerce Analysis: https://bityli.com/70WO2
 * SHAP studies: https://bityli.com/3MW7H
 
+
+[Heart diseases](https://github.com/Felipe-Oliveira11/Hospital-Machine-Learning/blob/master/Doen%C3%A7a%20Card%C3%ADaca%20UCI%20.ipynb)
+
 <hr>
 
 ### Links:
