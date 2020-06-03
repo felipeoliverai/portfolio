@@ -24,3 +24,7 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, tenho paixão p
 * LinkedIn: https://www.linkedin.com/in/felipe-oliveira-18a573189/
 * Artigos: https://medium.com/@felipe.oliveiras2000 (Em breve)
 <hr>
+
+### Contato: felipe.oliveiras2000@gmail.com
+
+<hr>
