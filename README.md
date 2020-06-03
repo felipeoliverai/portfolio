@@ -2,7 +2,7 @@
 <br>
 
 ![alt text](https://github.com/Felipe-Oliveira11/Portfolio/blob/master/template.PNG)
-### Felipe Oliveira 
+## Felipe Oliveira 
 <hr>
 
 Olá me chamo Felipe, tenho 19 anos, sou estudante de Inteligência Artificial, tenho paixão pela Inteligência Artificial principalmente pela matemática e estatística envolvida, tenho projetos desenvolvidos com foco em pesquisas e desenvolvimento de soluções utilizando Machine learning e Deep learning. 
