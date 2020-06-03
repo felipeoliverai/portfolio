@@ -27,5 +27,3 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, tenho paixão p
 <hr>
 
 #### Contato: felipe.oliveiras2000@gmail.com
-
-<hr>
