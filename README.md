@@ -22,6 +22,6 @@ Olá me chamo Felipe, tenho 19 anos, sou estudante de Inteligência Artificial, 
 
 ### Links:
 
-* Linkedin: https://www.linkedin.com/in/felipe-oliveira-18a573189/
+* LinkedIn: https://www.linkedin.com/in/felipe-oliveira-18a573189/
 * Artigos: https://medium.com/@felipe.oliveiras2000 (Em breve)
 <hr>
