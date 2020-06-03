@@ -11,8 +11,8 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, tenho paixão p
 
 #### Projetos de Machine learning:
 
-* Heart diseases: [Link](https://github.com/Felipe-Oliveira11/Hospital-Machine-Learning/blob/master/Doen%C3%A7a%20Card%C3%ADaca%20UCI%20.ipynb)
-* Cars Prediction: https://bityli.com/lxQDC
+* Heart diseases: [Heart diases project](https://github.com/Felipe-Oliveira11/Hospital-Machine-Learning/blob/master/Doen%C3%A7a%20Card%C3%ADaca%20UCI%20.ipynb)
+* Cars Prediction: [Cars Prediction project](https://github.com/Felipe-Oliveira11/Hospital-Machine-Learning/blob/master/Doen%C3%A7a%20Card%C3%ADaca%20UCI%20.ipynb)
 * E-commerce Analysis: https://bityli.com/70WO2
 * SHAP studies: https://bityli.com/3MW7H
 
