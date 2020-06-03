@@ -2,7 +2,8 @@
 <hr>
 <br>
 
-![alt text](https://github.com/Felipe-Oliveira11/Portfolio/blob/master/template.PNG)
+
+![alt text](https://github.com/Felipe-Oliveira11/Portfolio/blob/master/Felipe-ML_02.png)
 ### Felipe Oliveira 
 <hr>
 
