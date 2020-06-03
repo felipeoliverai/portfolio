@@ -29,11 +29,3 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, tenho paixão p
 #### Contato: felipe.oliveiras2000@gmail.com
 
 <hr>
-
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
