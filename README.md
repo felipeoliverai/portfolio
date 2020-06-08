@@ -5,7 +5,7 @@
 ## Felipe Oliveira 
 <hr>
 
-Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no curso de Banco de dados na FIAP em São Paulo, atualmente estou inserido em criar projetos de IA open sources, tenho afeição pela pesquisa na área de IA, estudar de forma aplicada e descobrir novas formas de ampliar o conhecimento dentro do campo de estudo de IA é um dos meus objetivos, tenho projetos desenvolvidos com foco em soluções utilizando Machine learning e Deep learning.
+Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no curso de Banco de dados na FIAP em São Paulo, atualmente estou inserido em criar projetos de IA open sources, tenho afeição pela pesquisa na área de IA, estudar de forma aplicada e descobrir novas formas de ampliar o conhecimento dentro do campo de estudo de IA é um dos meus objetivos, tenho projetos desenvolvidos e soluções na área de Machine learning e Deep learning.
 
 <br>
 <br>
