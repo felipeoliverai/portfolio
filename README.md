@@ -15,7 +15,7 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, tenho paixão p
 * **Cars Prediction**: [Cars Prediction project](https://github.com/Felipe-Oliveira11/Cars_Prediction_ML/blob/master/Car_price_prediction/Cars%20Prediction%20.ipynb)
 * **E-commerce Analysis**: [E-commerce project](https://github.com/Felipe-Oliveira11/E-commerce-Machine-learning/blob/master/E-commerce%20Customer.ipynb)
 * **SHAP studies**: [SHAP research](https://github.com/Felipe-Oliveira11/SHAP-ML/blob/master/SHAP.ipynb)
-* **Fraud Detection**: 
+* **Fraud Detection**: [Fraud Detection project](https://github.com/Felipe-Oliveira11/Fraud-Detection-ML/blob/master/Detec%C3%A7%C3%A3o_de_Fraude.ipynb)
 
 
 
