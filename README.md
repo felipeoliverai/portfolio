@@ -17,6 +17,7 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 * **E-commerce Analysis**: [E-commerce project](https://github.com/Felipe-Oliveira11/E-commerce-Machine-learning/blob/master/E-commerce%20Customer.ipynb)
 * **SHAP studies**: [SHAP research](https://github.com/Felipe-Oliveira11/SHAP-ML/blob/master/SHAP.ipynb)
 * **Fraud Detection**: [Fraud Detection project](https://github.com/Felipe-Oliveira11/Fraud-Detection-ML/blob/master/Fraud_Detection.ipynb)
+* **Housing Sales**: [Housing Sales project](https://github.com/Felipe-Oliveira11/Housing-Sales-ML/blob/master/Housing_Sales_Price.ipynb)
 
 
 
