@@ -19,6 +19,8 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 * **Fraud Detection**: [Fraud Detection project](https://github.com/Felipe-Oliveira11/Fraud-Detection-ML/blob/master/Fraud_Detection.ipynb) 
 * **Housing Sales**: [Housing Sales project](https://github.com/Felipe-Oliveira11/Housing-Sales-ML/blob/master/Housing_Sales_Price.ipynb)
 * **Marketing Segmetation**: [Marketing project](https://github.com/Felipe-Oliveira11/Marketing-ML/blob/master/Marketing.ipynb)
+* **XGBoost studies**: [XGBoost Studie](https://github.com/Felipe-Oliveira11/Gradient-Boosting-ML/blob/master/XGBoost/XGBoost_tutorial_1.ipynb)
+
 
 
 
