@@ -16,9 +16,9 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 * **Cars Prediction**: [Cars Prediction project](https://github.com/Felipe-Oliveira11/Cars_Prediction_ML/blob/master/Car_price_prediction/Cars%20Prediction%20.ipynb)
 * **E-commerce Analysis**: [E-commerce project](https://github.com/Felipe-Oliveira11/E-commerce-Machine-learning/blob/master/E-commerce%20Customer.ipynb)
 * **SHAP studies**: [SHAP research](https://github.com/Felipe-Oliveira11/SHAP-ML/blob/master/SHAP.ipynb)
-* **Fraud Detection**: [Fraud Detection project](https://github.com/Felipe-Oliveira11/Fraud-Detection-ML/blob/master/Fraud_Detection.ipynb)
+* **Fraud Detection**: [Fraud Detection project](https://github.com/Felipe-Oliveira11/Fraud-Detection-ML/blob/master/Fraud_Detection.ipynb) 
 * **Housing Sales**: [Housing Sales project](https://github.com/Felipe-Oliveira11/Housing-Sales-ML/blob/master/Housing_Sales_Price.ipynb)
-* **Marketing Segmetation**: [Marketing project](https://github.com/Felipe-Oliveira11/Marketing-ML/blob/master/Marketing.ipynb)
+* **Marketing Segmetation**: [Marketing project](https://github.com/Felipe-Oliveira11/Marketing-ML/blob/master/Marketing.ipynb) O desafio envolve analisar campanhas de marketing de uma institiução bancária. Nas campanhas é vendido ao cliente um produto adicional de débito automático. Queremos saber se um determinado cliente se inscreve ou não ao produto
 
 
 
