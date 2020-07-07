@@ -33,6 +33,7 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 
 * LinkedIn: https://www.linkedin.com/in/felipe-oliveira-18a573189/
 * Artigos: https://medium.com/@felipe.oliveiras2000
+* Kaggle: https://www.kaggle.com/felipeoliveiraml
 <hr>
 
 #### Contato: felipe.oliveiras2000@gmail.com
