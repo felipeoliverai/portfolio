@@ -25,6 +25,13 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 * **Hospital Sírio-Libanês**: [Sírio-Libanês](https://github.com/Felipe-Oliveira11/Sirio_Libanes-ML/blob/master/S%C3%ADrio_Liban%C3%AAs_COVID_19.ipynb)
 
 
+<br>
+
+
+#### Projetos de Deep learning:
+* **Fashion MNIST**: [Fashion MNIST](https://github.com/Felipe-Oliveira11/Fashion-MNIST/blob/master/Fashion_MNIST_TensorFlow.ipynb)
+
+
 
 
 <hr>
