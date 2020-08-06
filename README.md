@@ -31,7 +31,7 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 #### Projetos de Deep learning:
 * **Fashion MNIST**: [Fashion MNIST](https://github.com/Felipe-Oliveira11/Fashion-MNIST/blob/master/Fashion_MNIST_TensorFlow.ipynb)
 * **Detection Covid-19**: [Images Covid-19](https://github.com/Felipe-Oliveira11/Detection-COVID19/blob/master/Detecting_Covid_19_Images.ipynb)
-* **Dog or Cat | VGG-19**: [Classification Dog or Cat]()
+* **Dog or Cat | VGG-19**: [Classification Dog or Cat](https://www.kaggle.com/felipeoliveiraml/dogs-cats-transferlearning-vgg-19)
 
 
 
