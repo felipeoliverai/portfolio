@@ -33,7 +33,7 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 * **Fashion MNIST**: [Fashion MNIST](https://github.com/Felipe-Oliveira11/Fashion-MNIST/blob/master/Fashion_MNIST_TensorFlow.ipynb)
 * **Detection Covid-19**: [Images Covid-19](https://github.com/Felipe-Oliveira11/Detection-COVID19/blob/master/Detecting_Covid_19_Images.ipynb)
 * **Dog or Cat | VGG-19**: [Image Dog or Cat](https://github.com/Felipe-Oliveira11/Transfer-Learning/blob/master/VGG-19/dogs-cats-transferlearning-vgg-19.ipynb)
-* **Twitter Sentimens**: [Twitter Sentiments](https://github.com/Felipe-Oliveira11/twitter-classification-nlp/blob/master/notebook/Text_Classification_Twitter.ipynb)
+* **Twitter Sentiments**: [Twitter Sentiments](https://github.com/Felipe-Oliveira11/twitter-classification-nlp/blob/master/notebook/Text_Classification_Twitter.ipynb)
 
 
 
