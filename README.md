@@ -5,14 +5,13 @@
 ## Felipe Oliveira 
 <hr>
 
-### Sobre 
-
-Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no curso de Banco de dados na FIAP em São Paulo, atualmente estou inserido em criar projetos de IA open sources, tenho afeição pela pesquisa na área de IA, estudar de forma aplicada e descobrir novas formas de ampliar o conhecimento, dentro do campo de estudo de IA é um dos meus objetivos, tenho projetos desenvolvidos e soluções na área de Machine learning e Deep learning.
+### About me
+Hi there my name is Felipe, I am a Machine learning engineer and student of Database graduate at FIAP in São Paulo, I am currently involved in creating machine learning and deep learning project both academic and industry fields, currently working in consulting acting in solution of Artificial intelligence, I have strong interests in Computer vision and Natural language processing areas that which studing currently  
 
 <br>
 
 
-#### Projetos de Machine learning:
+#### Machine learning projects:
 * **Safra Prediction APP**: [Safra Prediction project](https://safra-plataforma.herokuapp.com/) 
 * **Heart diseases**: [Heart diseases project](https://github.com/Felipe-Oliveira11/Hospital-Machine-Learning/blob/master/Doen%C3%A7a%20Card%C3%ADaca%20UCI%20.ipynb)
 * **Cars Prediction**: [Cars Prediction project](https://github.com/Felipe-Oliveira11/Cars_Prediction_ML/blob/master/Car_price_prediction/Cars%20Prediction%20.ipynb)
@@ -28,7 +27,7 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 <br>
 
 
-#### Projetos de Deep learning:
+#### Deep learning projects:
 
 * **Fashion MNIST**: [Fashion MNIST](https://github.com/Felipe-Oliveira11/Fashion-MNIST/blob/master/Fashion_MNIST_TensorFlow.ipynb)
 * **Detection Covid-19**: [Images Covid-19](https://github.com/Felipe-Oliveira11/Detection-COVID19/blob/master/Detecting_Covid_19_Images.ipynb)
@@ -43,8 +42,8 @@ Olá me chamo Felipe, sou estudante de Inteligência Artificial, sou aluno no cu
 ### Links:
 
 * LinkedIn: https://www.linkedin.com/in/felipe-oliveira-18a573189/
-* Artigos: https://medium.com/@felipe.oliveiras2000
+* blog: https://medium.com/@felipe.oliveiras2000
 * Kaggle: https://www.kaggle.com/felipeoliveiraml
 <hr>
 
-#### Contato: felipe.oliveiras2000@gmail.com
+#### Contact: felipe.oliveiras2000@gmail.com
