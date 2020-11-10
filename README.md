@@ -41,7 +41,7 @@ Hi there my name is Felipe, I am a Machine learning engineer and student of Data
 
 ### Links:
 
-* LinkedIn: https://www.linkedin.com/in/felipe-oliveira-18a573189/
+* LinkedIn: https://www.linkedin.com/in/felipe-oliveira-da-silva-18a573189/
 * blog: https://medium.com/@felipe.oliveiras2000
 * Kaggle: https://www.kaggle.com/felipeoliveiraml
 <hr>
