@@ -27,6 +27,7 @@ Hi there my name is Felipe, I am a Machine learning engineer and student of Data
 <br>
 
 
+
 #### Deep learning projects:
 
 * **Fashion MNIST**: [Fashion MNIST](https://github.com/Felipe-Oliveira11/Fashion-MNIST/blob/master/Fashion_MNIST_TensorFlow.ipynb)
