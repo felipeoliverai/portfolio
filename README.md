@@ -10,7 +10,6 @@ Hi there my name is Felipe, I am a Machine learning engineer and student of Data
 
 <br>
 
-
 #### Machine learning projects:
 * **Safra Prediction APP**: [Safra Prediction project](https://safra-plataforma.herokuapp.com/) 
 * **Heart diseases**: [Heart diseases project](https://github.com/Felipe-Oliveira11/Hospital-Machine-Learning/blob/master/Doen%C3%A7a%20Card%C3%ADaca%20UCI%20.ipynb)
