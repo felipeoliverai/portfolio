@@ -9,6 +9,7 @@
 Hi there my name is Felipe, I am a Machine learning engineer and student of Database graduate at FIAP in São Paulo, I am currently involved in creating machine learning and deep learning project both academic and industry fields, currently working in consulting acting in solution of Artificial intelligence, I have strong interests in Computer vision, Natural language processing and Speech Recognition areas that which studing currently.
 
 <br>
+<br>
 
 #### Machine learning projects:
 * **Safra Prediction APP**: [Safra Prediction project](https://safra-plataforma.herokuapp.com/) 
